@@ -1,0 +1,36 @@
+.back {
+  background: green;
+  float: right;
+  width:50%
+}
+p{
+  background: grey;
+
+}
+.left{
+width:50%;
+float: left;
+}
+.clear{
+  clear: both;
+}
+.margin{
+  border: 3px solid red;
+  margin: 20px;
+  background: yellow;
+}
+.ph{
+  height:60px;
+  /*overflow: scroll;*/
+  /*float: left;*/
+}
+/*.left1{
+  float:left;
+  margin-bottom: 100%;
+}*/
+.margin1{
+  float:left;
+  margin-right: 1%;
+  margin-bottom: 20%
+  /*width: 50%;*/
+}
