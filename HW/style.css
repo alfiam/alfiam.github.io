@@ -166,27 +166,29 @@ p{
   text-align: justify;
 }
 .beg_desc2{
-  padding:0;
-  margin: 0 10% 0 10%;
-  height: 220px;
+  padding: 0;
+  /*margin: 0 10% 0 0;*/
+  /*height: 120px;*/
+  width: 60%;
+  float: right;
 }
 .beg_desc2 p{
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Sanchez', serif;
   margin: 0;
-  padding: 0;
+  padding-left: 1%;
   text-align: justify;
 }
 .beg_table{
-  height: 250px;
+  height: 220px;
 }
 table{
   border: 2px solid grey;
   border-collapse: collapse;
 }
 td{
-  font-family: 'Chivo', sans-serif;
-  font-size: 20px;
+  font-family: 'Sanchez', serif;
+  font-size: 17px;
   border-right: 2px solid grey;
   text-align: justify;
   padding: 5px
@@ -196,20 +198,28 @@ th{
   font-size: 25px;
   border-right: 2px solid grey;
 }
+.aftertable{
+  margin: 0 10% 0 10%;
+}
+.beg_img{
+  /*margin: 0 0 0 10%;*/
+  width: 40%;
+  float:left;
+}
 .footer{
   height: 50px;
   margin: 0 10% 0 10%;
-  padding: 2% 0 2% 0;
-  border-top: 1px solid grey;
+  padding: 2% 0 0 0;
+  /*border-top: 1px solid grey;*/
 }
 .footerlist {
   font-family: 'Sanchez', serif;
-  width: 25%;
+  width: 100%;
   float:left;
   color: white;
   list-style-type: none;
   /*display: inline;*/
-  /*text-align: center;*/
+  text-align: center;
   padding: 0;
   margin:0;
 }
