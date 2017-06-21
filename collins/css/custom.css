@@ -1,0 +1,60 @@
+.navbar-collapse{
+  padding-left: 5.5%;
+}
+/*
+.navbar-left{
+  padding-left: 5%;
+}
+*/
+.authorname{
+  font-family: 'Armata', sans-serif;
+  height: 70px;
+}
+.carousel-caption a{
+  color: black !important;
+  text-decoration: none !important;
+  /*background: grey !important;*/
+}
+.carousel-caption h1{
+  color: black !important;
+}
+.carousel-caption p{
+  color: black !important;
+}
+.carousel-caption{
+  background: white !important;
+  opacity: 0.4 !important;
+  /*НАДО ПЕРЕДЕЛАТЬ ЧТОБЫ ТЕКСТ НЕ БЫЛ ПРОЗРАЧНЫМ!*/
+}
+.inf{
+  padding-top: 50px;
+  height: 70vh;
+}
+.inf p{
+  font-size: 3rem;
+  text-align: justify;
+}
+.list{
+  list-style-type: none;
+  /*font-size: 20px;*/
+}
+#info{
+  padding-top: 70px;
+  height: 70vh;
+}
+#hungergames{
+  padding-top: 50px;
+  height: 90vh;
+}
+#mockingjay{
+  padding-top: 50px;
+  height: 120vh;
+}
+#catching{
+  padding-top: 50px;
+  height: 120vh;
+}
+#year{
+  padding-top: 50px;
+  height: 100vh;
+}
