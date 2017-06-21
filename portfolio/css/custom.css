@@ -10,7 +10,7 @@ body{
   padding-top: 0;
   margin-top: 0;
   height: 100vh;
-  background-image: url("../images/Unt.jpg");
+  background-image: url("../images/mou.jpg");
 }
 
 .main h1{
@@ -58,7 +58,7 @@ body{
 }
 .panel-footer{
   margin-top: 0;
-  background-image: url("../images/Unt.jpg");
+  background-image: url("../images/mou.jpg");
 }
 .topbutton {
 width:60px;
