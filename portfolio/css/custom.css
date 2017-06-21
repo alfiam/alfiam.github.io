@@ -1,0 +1,62 @@
+body{
+  padding-top: 0;
+  margin-top: 0;
+  background-color: 	#ebeff9;
+}
+.row{
+  padding-top: 50px;
+}
+.jumbotron1{
+  padding-top: 0;
+  margin-top: 0;
+  height: 100vh;
+  background-image: url("../images/unt.jpg");
+}
+
+.main h1{
+  font-family: 'Aldrich', sans-serif;
+  padding-top: 200px;
+  color: white;
+}
+.main a{
+  font-family: 'Rajdhani', sans-serif !important;
+  font-size: 15px !important;
+  text-decoration: none !important;
+  color: white !important;
+  padding: 10px 20px 10px 20px !important;
+  margin: 0 10px 0 10px !important;
+  border: 1px solid white;
+}
+.web_desc a{
+  text-decoration: none !important;
+  color: black !important;
+}
+.web_desc p{
+  color: black !important;
+}
+.seemore:hover{
+  width: 105%;
+}
+.jumbotron2{
+  height: 90vh;
+  margin-top: 40px;
+  margin-bottom: 0;
+  background-color: #ACBFCA;
+}
+/*#about{
+  padding-top: 40px;
+  height: 100vh;*/
+  /*background-color: #c4e2ed;*/
+/*}*/
+#about h3{
+  font-family: 'Aldrich', sans-serif;
+  font-size: 3rem !important;
+}
+#about p{
+  font-family: 'Carme', sans-serif;
+  font-size: 20px;
+}
+.panel-footer{
+  margin-top: 0;
+  background-image: url("../images/unt.jpg");
+}
