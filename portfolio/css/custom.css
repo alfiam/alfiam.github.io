@@ -34,9 +34,9 @@ body{
 .web_desc p{
   color: black !important;
 }
-.seemore:hover{
+/*.seemore:hover{
   width: 105%;
-}
+}*/
 .jumbotron2{
   height: 90vh;
   margin-top: 40px;
@@ -61,7 +61,7 @@ body{
   background-image: url("../images/mou.jpg");
 }
 .topbutton {
-width:60px;
+width:56px;
 border:1px solid #ccc;
 /*background:#f7f7f7;*/
 text-align:center;
@@ -69,8 +69,8 @@ text-decoration: none!important;
 font-size: 20px !important;
 padding:5px;
 position:fixed;
-bottom:50px;
-right:50px;
+bottom:45px;
+right:45px;
 cursor:pointer;
 color:#333;
 font-family:verdana;

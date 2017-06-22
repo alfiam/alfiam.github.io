@@ -1,18 +1,34 @@
 body{
   padding-top: 50px;
   position: relative;
+  background-color: #D3D3D3;
+}
+.navbar{
+  background-color: 	#696969;
 }
 .navbar-collapse{
   padding-left: 5.5%;
+}
+.navbar-right{
+  padding-right: 2%;
+}
+.nav a{
+  color: white !important;
+}
+.active a{
+  background: white !important;
+  color: black !important;
 }
 /*
 .navbar-left{
   padding-left: 5%;
 }
 */
-.authorname{
+.authorname h1{
   font-family: 'Armata', sans-serif;
-  height: 70px;
+  font-size: 5rem !important;
+  height:100px;
+  padding-top: 20px;
 }
 .carousel-caption a{
   color: black !important;
@@ -61,4 +77,10 @@ body{
 #year{
   padding-top: 50px;
   height: 100vh;
+}
+.container1{
+  background-color: white;
+}
+.container2{
+  background-color: white;
 }
