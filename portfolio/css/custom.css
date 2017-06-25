@@ -75,3 +75,18 @@ font-family:verdana;
 .topbutton a:hover{
   color: #333 !important;
 }
+/*.form-group{
+  width: 50%;
+}*/
+.form-horizontal{
+  padding-top: 40px;
+}
+.btn{
+  background: white !important;
+  border-radius: 0 !important;
+  width: 100%;
+}
+
+/*.form-group label{
+  text-align: left;
+}*/
