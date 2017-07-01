@@ -3,7 +3,10 @@ $(document).ready(function(){
     $("li").removeClass("active");
     $(this).addClass("active");
   });
-  // $('#carouselFade').carousel();
+
+
+
+  $('#carouselFade').carousel();
   $('#buttonsearch').click(function(){
 				$('#formsearch').slideToggle( "fast",function(){
 					 $( '#content' ).toggleClass( "moremargin" );
@@ -11,6 +14,8 @@ $(document).ready(function(){
 				$('#searchbox').focus()
 				$('.openclosesearch').toggle();
 		});
+
+
 
 
 
