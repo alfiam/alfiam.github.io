@@ -1,0 +1,22 @@
+body{
+  /*padding-top: 50px;*/
+  position: relative;
+}
+.active a{
+  background: white !important;
+  color: black !important;
+}
+.navbar{
+  margin: 0;
+}
+.jumbotron{
+  margin: 0;
+}
+.container{
+  margin-top: 50px;
+}
+#projects a{
+  color: black;
+  text-decoration: none !important;
+
+}
